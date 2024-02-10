@@ -1,2 +1,3 @@
 - 2024-02-10 11:50:34: chore(rbac): implement permission checks (1/4)
 - 2024-02-10 22:30:51: security(rbac): add role definitions (2/4)
+- 2024-02-10 12:55:43: feat(audit): log all mutations (3/4)
