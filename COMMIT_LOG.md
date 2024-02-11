@@ -2,3 +2,4 @@
 - 2024-02-10 22:30:51: security(rbac): add role definitions (2/4)
 - 2024-02-10 12:55:43: feat(audit): log all mutations (3/4)
 - 2024-02-10 16:23:43: Merge branch 'refactor/ai-platform-16' (4/4)
+- 2024-02-11 16:01:39: refactor(compliance): model card generation (1/5)
