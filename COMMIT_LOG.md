@@ -6,3 +6,4 @@
 - 2024-02-11 23:44:19: feat(compliance): EU AI Act export (2/5)
 - 2024-02-11 16:07:06: feat(deploy): add canary deployment (3/5)
 - 2024-02-11 20:44:34: docs(audit): add compliance export (4/5)
+- 2024-02-11 13:02:44: feat(compliance): data lineage tracking (5/5)
