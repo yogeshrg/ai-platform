@@ -4,3 +4,4 @@
 - 2024-02-10 16:23:43: Merge branch 'refactor/ai-platform-16' (4/4)
 - 2024-02-11 16:01:39: refactor(compliance): model card generation (1/5)
 - 2024-02-11 23:44:19: feat(compliance): EU AI Act export (2/5)
+- 2024-02-11 16:07:06: feat(deploy): add canary deployment (3/5)
