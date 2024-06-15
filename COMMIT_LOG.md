@@ -8,3 +8,4 @@
 - 2024-02-11 20:44:34: docs(audit): add compliance export (4/5)
 - 2024-02-11 13:02:44: feat(compliance): data lineage tracking (5/5)
 - 2024-06-15 23:24:21: docs(rbac): implement permission checks (1/2)
+- 2024-06-15 10:46:27: security(rbac): add audit logging (2/2)
