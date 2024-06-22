@@ -10,3 +10,4 @@
 - 2024-06-15 23:24:21: docs(rbac): implement permission checks (1/2)
 - 2024-06-15 10:46:27: security(rbac): add audit logging (2/2)
 - 2024-06-22 13:19:28: feat(rbac): add role definitions (1/4)
+- 2024-06-22 20:55:58: docs(compliance): data lineage tracking (2/4)
