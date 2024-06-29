@@ -16,3 +16,4 @@
 - 2024-06-29 19:28:23: test(audit): log all mutations (1/4)
 - 2024-06-29 14:41:17: fix(cost): chargeback reports (2/4)
 - 2024-06-29 23:35:07: fix(compliance): data lineage tracking (3/4)
+- 2024-06-29 16:12:07: test(deploy): implement rollback automation (4/4)
