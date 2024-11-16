@@ -23,3 +23,4 @@
 - 2024-11-10 17:26:06: docs(deploy): implement rollback automation (1/2)
 - 2024-11-10 14:55:24: feat(cost): chargeback reports (2/2)
 - 2024-11-16 12:36:33: chore(control-plane): add deployment manager (1/5)
+- 2024-11-16 11:04:10: refactor(deploy): implement rollback automation (2/5)
