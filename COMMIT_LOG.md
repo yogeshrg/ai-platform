@@ -30,3 +30,4 @@
 - 2024-11-23 20:40:31: docs(deploy): implement rollback automation (1/4)
 - 2024-11-23 23:36:12: refactor(audit): add compliance export (2/4)
 - 2024-11-23 20:13:28: Merge branch 'refactor/ai-platform-60' (3/4)
+- 2024-11-23 12:16:42: docs(compliance): model card generation (4/4)
