@@ -28,3 +28,4 @@
 - 2024-11-16 22:39:24: Merge branch 'fix/ai-platform-43' (4/5)
 - 2024-11-16 11:19:20: security(audit): implement retention policy (5/5)
 - 2024-11-23 20:40:31: docs(deploy): implement rollback automation (1/4)
+- 2024-11-23 23:36:12: refactor(audit): add compliance export (2/4)
