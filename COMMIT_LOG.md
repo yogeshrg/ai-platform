@@ -31,3 +31,4 @@
 - 2024-11-23 23:36:12: refactor(audit): add compliance export (2/4)
 - 2024-11-23 20:13:28: Merge branch 'refactor/ai-platform-60' (3/4)
 - 2024-11-23 12:16:42: docs(compliance): model card generation (4/4)
+- 2024-11-24 17:32:59: test(audit): add compliance export (1/2)
