@@ -35,3 +35,4 @@
 - 2024-11-24 21:34:38: security(control-plane): implement model registry (2/2)
 - 2024-11-30 18:02:36: chore(compliance): data lineage tracking (1/3)
 - 2024-11-30 12:32:47: feat(audit): log all mutations (2/3)
+- 2024-11-30 15:29:49: test(compliance): model card generation (3/3)
