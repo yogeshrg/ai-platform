@@ -33,3 +33,4 @@
 - 2024-11-23 12:16:42: docs(compliance): model card generation (4/4)
 - 2024-11-24 17:32:59: test(audit): add compliance export (1/2)
 - 2024-11-24 21:34:38: security(control-plane): implement model registry (2/2)
+- 2024-11-30 18:02:36: chore(compliance): data lineage tracking (1/3)
