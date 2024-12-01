@@ -37,3 +37,4 @@
 - 2024-11-30 12:32:47: feat(audit): log all mutations (2/3)
 - 2024-11-30 15:29:49: test(compliance): model card generation (3/3)
 - 2024-12-01 23:05:07: docs(control-plane): add project CRUD (1/4)
+- 2024-12-01 17:30:22: refactor(rbac): implement permission checks (2/4)
