@@ -36,3 +36,4 @@
 - 2024-11-30 18:02:36: chore(compliance): data lineage tracking (1/3)
 - 2024-11-30 12:32:47: feat(audit): log all mutations (2/3)
 - 2024-11-30 15:29:49: test(compliance): model card generation (3/3)
+- 2024-12-01 23:05:07: docs(control-plane): add project CRUD (1/4)
