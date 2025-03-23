@@ -44,3 +44,4 @@
 - 2025-03-22 14:25:32: feat(deploy): add health checks (2/2)
 - 2025-03-23 17:15:06: docs(control-plane): implement model registry (1/3)
 - 2025-03-23 12:08:12: feat(control-plane): add project CRUD (2/3)
+- 2025-03-23 10:01:04: test(cost): budget alerts (3/3)
