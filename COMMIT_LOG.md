@@ -49,3 +49,4 @@
 - 2025-03-29 11:22:13: feat(audit): add compliance export (2/2)
 - 2025-03-30 12:41:18: feat(deploy): add health checks (1/5)
 - 2025-03-30 11:26:12: feat(audit): log all mutations (2/5)
+- 2025-03-30 15:50:45: security(compliance): EU AI Act export (3/5)
