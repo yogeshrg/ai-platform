@@ -47,3 +47,4 @@
 - 2025-03-23 10:01:04: test(cost): budget alerts (3/3)
 - 2025-03-29 09:10:59: feat(rbac): add role definitions (1/2)
 - 2025-03-29 11:22:13: feat(audit): add compliance export (2/2)
+- 2025-03-30 12:41:18: feat(deploy): add health checks (1/5)
