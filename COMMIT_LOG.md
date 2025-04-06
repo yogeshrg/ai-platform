@@ -52,3 +52,4 @@
 - 2025-03-30 15:50:45: security(compliance): EU AI Act export (3/5)
 - 2025-03-30 15:17:11: refactor(audit): implement retention policy (4/5)
 - 2025-03-30 16:33:22: chore(control-plane): update dependencies (5/5)
+- 2025-04-06 22:50:58: chore(deploy): add canary deployment (1/2)
