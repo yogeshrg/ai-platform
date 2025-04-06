@@ -53,3 +53,4 @@
 - 2025-03-30 15:17:11: refactor(audit): implement retention policy (4/5)
 - 2025-03-30 16:33:22: chore(control-plane): update dependencies (5/5)
 - 2025-04-06 22:50:58: chore(deploy): add canary deployment (1/2)
+- 2025-04-06 22:54:11: security(cost): budget alerts (2/2)
