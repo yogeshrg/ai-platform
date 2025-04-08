@@ -56,3 +56,4 @@
 - 2025-04-06 22:54:11: security(cost): budget alerts (2/2)
 - 2025-04-08 18:36:09: feat(cost): chargeback reports (1/3)
 - 2025-04-08 10:03:14: refactor(cost): per-team token tracking (2/3)
+- 2025-04-08 18:12:51: docs(cost): per-team token tracking (3/3)
