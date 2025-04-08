@@ -55,3 +55,4 @@
 - 2025-04-06 22:50:58: chore(deploy): add canary deployment (1/2)
 - 2025-04-06 22:54:11: security(cost): budget alerts (2/2)
 - 2025-04-08 18:36:09: feat(cost): chargeback reports (1/3)
+- 2025-04-08 10:03:14: refactor(cost): per-team token tracking (2/3)
