@@ -58,3 +58,4 @@
 - 2025-04-08 10:03:14: refactor(cost): per-team token tracking (2/3)
 - 2025-04-08 18:12:51: docs(cost): per-team token tracking (3/3)
 - 2025-04-18 23:09:49: feat(control-plane): add project CRUD (1/3)
+- 2025-04-18 15:37:06: refactor(control-plane): add deployment manager (2/3)
