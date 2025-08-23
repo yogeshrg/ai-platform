@@ -61,3 +61,4 @@
 - 2025-04-18 15:37:06: refactor(control-plane): add deployment manager (2/3)
 - 2025-04-18 21:40:31: fix(deploy): add health checks (3/3)
 - 2025-08-23 22:43:37: Revert "add deployment manager" (1/4)
+- 2025-08-23 16:00:33: test(compliance): EU AI Act export (2/4)
