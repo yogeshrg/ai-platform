@@ -64,3 +64,4 @@
 - 2025-08-23 16:00:33: test(compliance): EU AI Act export (2/4)
 - 2025-08-23 17:49:58: security(audit): implement retention policy (3/4)
 - 2025-08-23 19:38:38: security(compliance): model card generation (4/4)
+- 2025-08-30 14:18:28: chore(cost): per-team token tracking (1/5)
