@@ -70,3 +70,4 @@
 - 2025-08-30 20:07:48: test(cost): chargeback reports (4/5)
 - 2025-08-30 19:47:57: test(cost): chargeback reports (5/5)
 - 2025-08-31 09:42:03: feat(cost): per-team token tracking (1/2)
+- 2025-08-31 09:44:50: chore(rbac): implement permission checks (2/2)
