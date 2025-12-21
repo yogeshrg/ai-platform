@@ -72,3 +72,4 @@
 - 2025-08-31 09:42:03: feat(cost): per-team token tracking (1/2)
 - 2025-08-31 09:44:50: chore(rbac): implement permission checks (2/2)
 - 2025-12-21 17:52:00: chore(audit): log all mutations (1/2)
+- 2025-12-21 15:14:51: refactor(audit): log all mutations (2/2)
